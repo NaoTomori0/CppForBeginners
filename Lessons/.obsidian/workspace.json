@@ -11,16 +11,6 @@
             "id": "9fc5e49f38e9fed2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
-            }
-          },
-          {
-            "id": "be219a0b06d7a6a7",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Lesson 3.0.md",
@@ -45,8 +35,7 @@
               "title": "Lesson 3.0"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -244,7 +233,6 @@
     "info/Objective.md",
     "info/Item.md",
     "info/CustomSaveSystem.md",
-    "info/CharacterClass.md",
     "F3F4F100",
     "~$Баланс.xlsx",
     "images/33.jpg",
