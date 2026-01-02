@@ -1,0 +1,268 @@
+{
+  "main": {
+    "id": "3dcb599bf83b584a",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd69bb42028693a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fc5e49f38e9fed2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          },
+          {
+            "id": "be219a0b06d7a6a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lesson 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lesson 1"
+            }
+          },
+          {
+            "id": "3e5d8b1e4a86b93d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lesson 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lesson 2"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f8e2ac63762ed0d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9a4ed1b960e3571",
+        "type": "tabs",
+        "dimension": 55.167958656330754,
+        "children": [
+          {
+            "id": "6cd8e4553c9eadcd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          },
+          {
+            "id": "eef023165c7b753c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "0a181a1edbbcea55",
+        "type": "tabs",
+        "dimension": 44.832041343669246,
+        "children": [
+          {
+            "id": "16a6bfa211161a2f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Управление",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "bc6c034fb5f381f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "4757d802536f0ed6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15d8c18ce9f3c2ca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Дизайн документ.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Дизайн документ"
+            }
+          },
+          {
+            "id": "43271749e24532a5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Дизайн документ.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Дизайн документ"
+            }
+          },
+          {
+            "id": "82054cee6600fcfa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "b939bc87d8f6455f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Дизайн документ.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Дизайн документ"
+            }
+          },
+          {
+            "id": "0e0ce91dab85eae2",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 577.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Граф": false,
+      "switcher:Меню быстрого перехода": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "3e5d8b1e4a86b93d",
+  "lastOpenFiles": [
+    "Lesson 1.md",
+    "Lesson 2.md",
+    "Без названия",
+    "info/Godot.md",
+    "Дизайн документ.md",
+    "Доска.canvas",
+    "info/Skill.md",
+    "info/SkillEffect.md",
+    "info/Character.md",
+    "images/scrn_0.jpg",
+    "images/scrn_1.jpg",
+    "info/Global.md",
+    "info/SoundThemeManager.md",
+    "info/SkillTree.md",
+    "info/SkillSaveSystem.md",
+    "info/SkillSaveData.md",
+    "info/SkillMap.md",
+    "info/Signals.md",
+    "info/SceneLoader.md",
+    "info/SaveData.md",
+    "info/QuestManager.md",
+    "info/Quest.md",
+    "info/Objective.md",
+    "info/Item.md",
+    "info/CustomSaveSystem.md",
+    "info/CharacterClass.md",
+    "F3F4F100",
+    "~$Баланс.xlsx",
+    "images/33.jpg",
+    "images/29.jpg",
+    "images/37.jpg",
+    "images/main_menu_img.jpg",
+    "images/onyxsky_studio_logo.jpg",
+    "images/icon.jpg",
+    "images/36.jpg",
+    "images/31.jpg",
+    "music/Для вдохновения/Golden_Brown_x_Love_Story_Orchestral_arr_by_Witch_Requiem.mp3",
+    "music/Для вдохновения/Golden Brown x Love Story - Orchestral arr. by Witch Requiem.mp3",
+    "music/theme25.0.1.mp3.import",
+    "music/theme25.0.1.mp3",
+    "music/theme24.0.2.mp3.import",
+    "music/theme24.0.2.mp3",
+    "music/theme24.0.1.mp3.import",
+    "2025-10-25.md",
+    "Без названия 1.canvas",
+    "Описание.md",
+    "image_3/jpg.md",
+    "Словарь.md"
+  ]
+}
